@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f5034257fa6d1bcf666bc2dd5d79604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2e432ceb1985bb2036adea5b682ab0f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\9c5c90ecfad93e241a2999a783ef58c5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\689c1ce232f4adce2dfed87a78d5f0ed\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\timber-4.7.1.aar\718fe581461d2eae0e7613c7e0df30d4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\5cd330b923b19371d9ff357f3f835383\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\a80257cc685f4a0f61efae56fd84567a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\eaa0c5703b1676d122e01ead6c1d5444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\8bfe843588328bb10b3df309b9249b13\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f13abf2b3979c9085733092c328cb99b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\abbbc49ba942c50cc25343ce04cbb386\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e130f4d042668340a55ecd64c5a96ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e0f4a6025bf1c7db41d41898b2ed7a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6d9f16b6152a1359da80b682cb002eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76b782f4d7964d79eef717caedf364d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e2819f9ada2580f8177e2ba75373a20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afffe51999c0755b9bb719063c4c4ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\61d3a209f64c2cc9df23a7e1581e7eba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\33ea2e6df0fd04f9ae8aa39f932f26e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6206c830cbaea7308b1833854c02d39c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c64cd852de4b062bd5dc6d49952a8d7e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\61ac815e924e35e4b9a466eb37257da6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37a07f7bd28f16d92a0e7bf3f371a6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0666085c14cad0fc06fd769e9405954b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+	package
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:5:5-42
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:1-39:12
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:4:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:8:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:13:5-37:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\9c5c90ecfad93e241a2999a783ef58c5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\9c5c90ecfad93e241a2999a783ef58c5\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\timber-4.7.1.aar\718fe581461d2eae0e7613c7e0df30d4\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\timber-4.7.1.aar\718fe581461d2eae0e7613c7e0df30d4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\5cd330b923b19371d9ff357f3f835383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\5cd330b923b19371d9ff357f3f835383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\a80257cc685f4a0f61efae56fd84567a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\a80257cc685f4a0f61efae56fd84567a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\8bfe843588328bb10b3df309b9249b13\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\8bfe843588328bb10b3df309b9249b13\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f13abf2b3979c9085733092c328cb99b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f13abf2b3979c9085733092c328cb99b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:18:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:21:13-67
+	android:exported
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:20:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:24:13-26:54
+	android:resource
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:26:17-51
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:25:17-67
+activity#com.example.android.emojify.MainActivity
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f5034257fa6d1bcf666bc2dd5d79604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8f5034257fa6d1bcf666bc2dd5d79604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2e432ceb1985bb2036adea5b682ab0f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2e432ceb1985bb2036adea5b682ab0f9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\9c5c90ecfad93e241a2999a783ef58c5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\9c5c90ecfad93e241a2999a783ef58c5\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\689c1ce232f4adce2dfed87a78d5f0ed\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\689c1ce232f4adce2dfed87a78d5f0ed\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\timber-4.7.1.aar\718fe581461d2eae0e7613c7e0df30d4\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\timber-4.7.1.aar\718fe581461d2eae0e7613c7e0df30d4\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\5cd330b923b19371d9ff357f3f835383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\5cd330b923b19371d9ff357f3f835383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\a80257cc685f4a0f61efae56fd84567a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\a80257cc685f4a0f61efae56fd84567a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\eaa0c5703b1676d122e01ead6c1d5444\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\eaa0c5703b1676d122e01ead6c1d5444\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\8bfe843588328bb10b3df309b9249b13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\8bfe843588328bb10b3df309b9249b13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f13abf2b3979c9085733092c328cb99b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f13abf2b3979c9085733092c328cb99b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\abbbc49ba942c50cc25343ce04cbb386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\abbbc49ba942c50cc25343ce04cbb386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e130f4d042668340a55ecd64c5a96ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e130f4d042668340a55ecd64c5a96ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e0f4a6025bf1c7db41d41898b2ed7a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e0f4a6025bf1c7db41d41898b2ed7a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6d9f16b6152a1359da80b682cb002eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6d9f16b6152a1359da80b682cb002eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76b782f4d7964d79eef717caedf364d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\76b782f4d7964d79eef717caedf364d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e2819f9ada2580f8177e2ba75373a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e2819f9ada2580f8177e2ba75373a20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afffe51999c0755b9bb719063c4c4ba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\afffe51999c0755b9bb719063c4c4ba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\61d3a209f64c2cc9df23a7e1581e7eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\61d3a209f64c2cc9df23a7e1581e7eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\33ea2e6df0fd04f9ae8aa39f932f26e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\33ea2e6df0fd04f9ae8aa39f932f26e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6206c830cbaea7308b1833854c02d39c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6206c830cbaea7308b1833854c02d39c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c64cd852de4b062bd5dc6d49952a8d7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c64cd852de4b062bd5dc6d49952a8d7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\61ac815e924e35e4b9a466eb37257da6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\61ac815e924e35e4b9a466eb37257da6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37a07f7bd28f16d92a0e7bf3f371a6a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\37a07f7bd28f16d92a0e7bf3f371a6a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0666085c14cad0fc06fd769e9405954b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0666085c14cad0fc06fd769e9405954b\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\EmojifyApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\1124294893c98fa1f7c39fe1c444cd85\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Shehryar\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\23d9666753d5bdcfa74a00b968b9b5ef\AndroidManifest.xml:24:13-58
