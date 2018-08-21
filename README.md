@@ -1,3 +1,3 @@
 EmojifyApp
 ==========
-Using different libraries in this project .
+Using different libraries & experiment with them in this project is the purpose of it .
